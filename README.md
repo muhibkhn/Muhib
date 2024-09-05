@@ -33,7 +33,6 @@ I'm so excited to have you here! This is my GitHub profile where I share my codi
 I'm always happy to connect with other developers and people interested in coding. You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/muhibkhn/)
-- [Twitter](https://twitter.com/muhibkhn/)
 - [Email](mailto:muhibkhnx@gmail.com)
 
 Thank you for stopping by! I hope you find something interesting on my profile.
